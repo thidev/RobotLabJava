@@ -1,50 +1,50 @@
 # RobotLabJava
 
-My code does the following : 
+My code does the following :\
 Run three robots in the window, where which one has a direfferent behaviour.
 
 file 1 (RobotLab.java)
-Main Method:
+Main Method:\
 There are threes objects, where they call for display, drive, speed, setColor and size of the objects
 
-
 file 2 (Robots.java)
-Class : 
+Class:\
 Alice patrol around the screen  -  Control the Speed, Size and color by the keys bellow:
 
-Speed up       =   w
-Speed down     =   x
-Size  (lager)  =   p
-Size (Smaller) =   o
-Color          =   a
+
+Speed up       =   w \
+Speed down     =   x \
+Size  (lager)  =   p \
+Size (Smaller) =   o \
+Color          =   a 
 
 Bob bounce around of the screen - Control the Speed, Size and color by the keys bellow:
 
-Speed up       =   c
-Speed down     =   v
-Size  (lager)  =   u
-Size (Smaller) =   i
+Speed up       =   c\
+Speed down     =   v\
+Size  (lager)  =   u\
+Size (Smaller) =   i\
 Color          =   z
 
 Charlie is controlled by the arrows of the keyboard - Control the Speed, Size and color by the keys bellow:
 
-Speed up       =   b
-Speed down     =   n
-Size  (lager)  =   m
-Size (Smaller) =   l
+Speed up       =   b\
+Speed down     =   n\
+Size  (lager)  =   m\
+Size (Smaller) =   l\
 Color          =   e
 
 Control Charlie by the arrows of the keyboard 
 
-← Left
-↑ Up
-→ Right
+← Left\
+↑ Up\
+→ Right\
 ↓ Down
 
 
 Stop all robots by the key bellow:
-To stop        =   y
-To play back   =   h
+To stop        =   y\
+To play back   =   h\
 
 ********// Compile and Run // ********
 
